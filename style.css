@@ -1,0 +1,33 @@
+* {
+  color: ORCHID;
+}
+
+
+#bio {
+  margin-top: 75px;
+  margin-bottom: 75px;
+  margin-right: 300px;
+  margin-left: 300px;
+  background-image: linear-gradient(to left top, rgba(180, 210, 255, 0.5), rgba(250,185,255, 0.5));
+}
+
+#list {
+    margin-top: 75px;
+    margin-bottom: 75px;
+    margin-right: 300px;
+    margin-left: 300px;
+    background-image: linear-gradient(to left top, rgba(180, 210, 255, 0.5), rgba(250,185,255, 0.5));
+}
+
+#social {
+    margin-top: 75px;
+    margin-bottom: 75px;
+    margin-right: 300px;
+    margin-left: 300px;
+    background-image: linear-gradient(to left top, rgba(180, 210, 255, 0.5), rgba(250,185,255, 0.5));
+}
+
+body {
+    color: ORCHID;
+    background-image: linear-gradient(to right bottom, #b4d2ff, #bfceff, #d0c8ff, #e4c1ff, #fab9ff);
+}
